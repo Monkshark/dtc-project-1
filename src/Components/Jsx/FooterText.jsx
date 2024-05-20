@@ -1,8 +1,8 @@
 import '../Css/FooterText.css';
 
-function FooterText({ text, fontSize }) {
+function FooterText({ text, style }) {
     return (
-        <p style={{ fontSize: fontSize, margin: 0 }}> { text } </p>
+        <p style={{ ...style, fontFamily: "GangwonEdu_OTFBoldA" }}> { text } </p>
     );
 }
 
