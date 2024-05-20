@@ -1,0 +1,15 @@
+export const chapterButtonStyle = {
+    backgroundColor: "#888888",
+    border: "none",
+    color: "#ffffff",
+    padding: "7px 15px",
+    textAlign: "center",
+    textDecoration: "none",
+    display: "flex",
+    fontSize: "16px",
+    margin: "4px 2px",
+    borderRadius: "40px",
+    justifyContent: "center",
+    alignItems: "center",
+    position: "absolute",
+};

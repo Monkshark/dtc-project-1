@@ -1,4 +1,4 @@
-export const buttonStyle = {
+export const startButtonStyle = {
     backgroundColor: "#ffffff",
     border: "none",
     color: "#000000",

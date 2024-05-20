@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import StartButton from "./Components/Jsx/StartButton.jsx";
+import MainPage from "./Pages/Jsx/MainPage.jsx";
 
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     return  (
         <BrowserRouter>
             <Routes >
-                <Route path={ `/` } element={ <StartButton/> } />
+                <Route path={ `/` } element={ <MainPage/> } />
             </Routes>
         </BrowserRouter>
     );
