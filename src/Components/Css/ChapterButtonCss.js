@@ -6,7 +6,7 @@ export const chapterButtonStyle = {
     textAlign: "center",
     textDecoration: "none",
     display: "flex",
-    fontSize: "16px",
+    fontSize: "8px",
     margin: "4px 2px",
     borderRadius: "40px",
     justifyContent: "center",
