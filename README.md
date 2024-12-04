@@ -1,8 +1,6 @@
-# React + Vite
+# DTC 2024 수업 자료 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+예제 활용해서 세특 들어갈 프로젝트 제작 후 제출해주세요
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 개발환경: react.js
+- tailwind, 리액트 훅 3종류 이상 사용해주세요
